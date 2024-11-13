@@ -1,7 +1,7 @@
 Soy estudiante de Analista Programador en Duoc UC, actualmente en mi 4º semestre. Aquí encontrarás proyectos y ejercicios en los que aplico y desarrollo mis habilidades en programación y desarrollo de software.
 
 🔧 Tecnologías y habilidades:
-Lenguajes de programación: Python, Java y Django
+Lenguajes de programación: Python, Java
 Desarrollo web: Django para backend y Ionic para aplicaciones móviles.
 Bases de datos: Experiencia con Oracle, MySQL y Firebase.
 🚀 Mi objetivo:
